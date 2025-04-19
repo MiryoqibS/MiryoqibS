@@ -4,7 +4,7 @@
   🎓 Самоучка, изучаю программирование с 13 лет<br>
   🚀 Изучаю <strong>Frontend</strong> и двигаюсь к FullStack<br>
   📚 Сейчас учу <strong>JavaScript</strong> по <a href="https://learn.javascript.ru/">LearnJavaScript.ru</a><br>
-  📁 Мой путь развития — в репозитории <a href="https://github.com/MiryoqibS/learn-javascript">learn-javascript</a>
+  📁 Мой путь развития — в репозитории <a href="https://github.com/MiryoqibS/Learning-javascript">learn-javascript</a>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ### 📬 Как со мной связаться
 
-- 📧 Почта: <a href="mailto:youremail@example.com">youremail@example.com</a>
+- 📧 Почта: <a href="mailto:miryoqibcode@gmail.com">miryoqibcode@gmail.com</a>
 ---
 
 <p align="center">
